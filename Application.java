@@ -3,7 +3,7 @@ class Application
 {
   public static void main(String args[])
   {
-    System.out.println("      WELCOME TO MANOAHR MART       ");
+    System.out.println("      WELCOME TO MANOHAR MART       ");
     System.out.println("____--------------------------____");
     int YES = 1;
     int NO = 0,Total_price=0;
@@ -222,7 +222,7 @@ class Application
                  System.out.println("TOTAL PAYABLE AFTER DISCOUNT: " + finalBill);
                  System.out.println(" ");
                  System.out.println("______________________________________________________");
-                 System.out.println("    THANK YOU FOR SHOPPING AT MANOAHR MART!    ");
+                 System.out.println("    THANK YOU FOR SHOPPING AT MANOHAR MART!    ");
                  System.out.println("*********************************************************");
  
 

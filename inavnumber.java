@@ -1,13 +1,15 @@
-import java.util.Scanner;
-class Inva
+import java.util.Scan/
+/ner;
+class Inav
 {
    public static void main(String agrs[])
    {
        Inavnumber i = new Inavnumber();
        Scanner sc = new Scanner(System.in);
+       System.out.println("enter number");5
        i.number=sc.nextInt();
        i.isInva();
-       i.checkInav(); 
+       i.checkInav();            
        if(i.sum==1)
              {
               System.out.println("inav number");
@@ -37,7 +39,7 @@ class Inavnumber
    }
    void checkInav()
    {
-      while(sum>9||sum<9)
+      while(sum>9)
       {
            isInva();
          sum=sum/10;
